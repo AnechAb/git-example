@@ -22,6 +22,7 @@ public class Example1 {
 
     static void method(int val) {
         System.out.println("Val");
+		System.out.println("Hello world");
     }
 
     static void method1() {
