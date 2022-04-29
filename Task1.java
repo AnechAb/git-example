@@ -7,10 +7,6 @@ public class Example1 {
 
     }
 
-//    static int method() {
-//        System.out.println("int");
-//        return 1;
-//    }
 
     static void method(Object val) {
         System.out.println("void");
